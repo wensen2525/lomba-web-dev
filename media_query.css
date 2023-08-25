@@ -1,0 +1,90 @@
+@media only screen and (min-width: 0px) {
+      .gambar{
+            width: 85vw;
+      }
+}
+
+@media only screen and (min-width: 183px) {
+      .gambar{
+            width: 88vw;
+      }
+}
+
+@media only screen and (min-width: 222px) {
+      .gambar{
+            width: 89vw;
+      }
+}
+
+@media only screen and (min-width: 244px) {
+      .gambar{
+            width: 89vw;
+      }
+}
+
+@media only screen and (min-width: 274px) {
+      .gambar{
+            width: 92vw;
+      }
+}
+
+@media only screen and (min-width: 313px) {
+      .gambar{
+            width: 92.5vw;
+      }
+}
+
+@media only screen and (min-width: 332px) {
+      .gambar{
+            width: 92.5vw;
+      }
+}
+
+@media only screen and (min-width: 344px) {
+      .gambar{
+            width: 94.3vw;
+      }
+}
+
+@media only screen and (min-width: 439px) {
+      .gambar{
+            width: 95vw;
+      }
+}
+
+@media only screen and (min-width: 518px) {
+      .gambar{
+            width: 95.5vw;
+      }
+}
+
+/* laptop/pc */
+@media only screen and (min-width: 575.98px) {
+      .gambar{
+            width: 515px;
+      }
+}
+
+@media only screen and (min-width: 767.98px) {
+      .gambar{
+            width: 695px;
+      }
+}
+
+@media only screen and (min-width: 991.98px) {
+      .gambar{
+            width: 935px;
+      }
+}
+
+@media only screen and (min-width: 1199.98px) {
+      .gambar{
+            width: 1115px;
+      }
+}
+
+@media only screen and (min-width: 1399.98px) {
+      .gambar{
+            width: 1295px;
+      }
+}

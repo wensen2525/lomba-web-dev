@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body { font-family: 'Poppins', sans-serif; }
+
+:root{
+      --heading_size: 24px;
+      --heading_weight: 600; /* semibold */
+
+      --name_text_weight: 500;
+}
+
+.heading{
+      font-size: var(--heading_size);
+      font-weight: var(--heading_weight);
+}
+
+.title{
+      font-size: 32px;
+      font-weight: 600;
+}
+
+.description{
+      text-align: justify;
+      text-justify: inter-word;
+}
+
+.komposisi{
+      text-align: justify;
+      text-justify: inter-word;
+}
+
+.name_team{
+      font-weight: var(--name_text_weight);
+}
+
+input{
+      height: 3rem;
+}
+
+.login{
+      background-color: #c10000;
+}
+
+.signin{
+      background-color: #c10000;
+}
